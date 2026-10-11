@@ -1,0 +1,37 @@
+{
+  "name": "UTZLINE Defects & Handover",
+  "short_name": "Defects & Handover",
+  "description": "Defects per project (typed, dropped on the plan, imported from the builder's list), photos, sign-off, and the O&M handover pack",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17150d",
+  "theme_color": "#17150d",
+  "icons": [
+    {
+      "src": "icons/icon-192.png?v=v1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png?v=v1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192-maskable.png?v=v1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-512-maskable.png?v=v1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
